@@ -1,0 +1,6 @@
+/build/
+/.vs/
+/.idea/
+*.sln
+*.vcxproj*
+.DS_Store
